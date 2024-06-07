@@ -1,5 +1,5 @@
 ## About Me
-Currently, I am a Senior at Morgan State University, located in Baltimore, Maryland. I am pursuing a Bachelor’s degree in Computer Science. My expected graduation date is in 2025.
+My name is Kye Toussaint. I recently graduated from Morgan State University with a degree in Cloud Computing. Currently, I am engaged in a research program at Morgan State, where I am exploring the implementation of AI in education..  
 
-[Linkedin Profile](https://www.linkedin.com/in/michael-adeleke-4a1228217/)
+[Linkedin Profile](https://www.linkedin.com/in/kye-toussaint-542337191/)
 
