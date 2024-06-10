@@ -2,7 +2,7 @@
 
 mBot Neo
 
-Problem: There is a lack of reasearch focusing on exploring ways to build educational software that integrates physical robots and physiological sensors. 
+Problem: There is a lack of reasearch focusing on exploring ways to implement AI onto education
 
 Approach: During this project, I will assist a team in designing a system that accomplishes the following:
 
