@@ -1,6 +1,12 @@
 ## About My Mentor
 
-My mentor, Dr. Chris Crawford from the University of Alabama, is a researcher who’s work focuses on Brain-Computer Interfaces, as well as Human-Robot Interaction. His work aims to leverage novel neurophysiological sensing technologies, software engineering, and robotics to create tools and applications that support the exploration of Brain-Robot Interaction.
+CodeWiz aims to revolutionize the way coding skills are taught and learned
+by integrating advanced conversational AI into education platforms. This
+integration will create a more interactive, personalized, and effective learning
+experience for students at all levels of proficiency. By leveraging the power of
+conversational AI, CodeWiz will provide real-time assistance, instant feedback,
+and tailored learning paths to help students master coding concepts more
+efficiently and enjoyably.
 
 [Mentor's Website](https://htilua.org/about-the-pi)
 
