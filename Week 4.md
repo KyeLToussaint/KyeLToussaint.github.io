@@ -1,1 +1,1 @@
-
+This week, I finished the mock-up for the design phase of Code Wiz. Using Figma, I created a detailed visual of how I want the website to look. This mock-up includes the layout, colors, fonts, and interactive parts. By making this visual plan, I can ensure the final product matches my vision and offers a good user experience. This step is important as it serves as a guide for the next stages of website development, ensuring everything is clear and consistent.
