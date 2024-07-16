@@ -6,4 +6,4 @@
 - [Week 4](./Week4.md).
 - [Week 5](./Week5.md).
 - [Week 6](./Week6.md).
-- 
+- [Week 7](./Week7.md).
