@@ -1,13 +1,5 @@
 ## About My Mentor
 
-CodeWiz aims to revolutionize the way coding skills are taught and learned
-by integrating advanced conversational AI into education platforms. This
-integration will create a more interactive, personalized, and effective learning
-experience for students at all levels of proficiency. By leveraging the power of
-conversational AI, CodeWiz will provide real-time assistance, instant feedback,
-and tailored learning paths to help students master coding concepts more
-efficiently and enjoyably.
+Mr. Adeleke, a Senior at Morgan State University in Baltimore, Maryland, is working towards a Bachelor’s degree in Computer Science, anticipated to graduate in 2025. At the CEAMLS AI Research Institute, he is involved in mentoring two initiatives: Trustworthy AI and CodeWiz, the latter of which I am participating in. He also coordinates the CodeBears camp. I am eager to benefit from his expertise and direction on this project. 
 
-[Mentor's Website](https://htilua.org/about-the-pi)
-
-
+[Mentor’s Website] michaelladeleke.github.io
